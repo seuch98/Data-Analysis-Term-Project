@@ -34,7 +34,19 @@ if gpus:
 
 # Responsibilities
 
-SeungA Chung: Experiment design, Overall coding including the experiment and a system, CNN structure experiment, Paper(Abstract, Introduction, Method(specifically implementation part), Experiment(specifically Model Structure experiment part), Suggestion for Facial Expression Recognition System, Conclusion), Document, Demo
+SeungA Chung: 
+- Experiment design
+- Overall coding including the experiment and a system
+- CNN structure experiment 
+- Paper(Abstract, Introduction, Method(specifically implementation part), Experiment(specifically Model Structure experiment part), Suggestion for Facial Expression Recognition System, Conclusion)
+- Document
+- Demo
 
-HyeJung Yoon: Experiment design, Epoch experiment, Regularization experiment, Paper(Introduction, Related Work, Method(specifically dataset and design of neural network part), Experiment(specifically Epoch experiment, Regularization experiment part)), PPT, Demo
+HyeJung Yoon: 
+- Experiment design
+- Epoch experiment
+- Regularization experiment
+- Paper(Introduction, Related Work, Method(specifically dataset and design of neural network part), Experiment(specifically Epoch experiment, Regularization experiment part))
+- PPT
+- Demo
 
