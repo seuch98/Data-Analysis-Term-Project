@@ -14,6 +14,8 @@ If not, please install first by using 'pip install'.
 
 + If you are going to run the 'Facial Expression Recognition System Code' in GPU environment, please add the code below at the begins of the code.
 
+<pre>
+<code>
 import tensorflow as tf
 
 gpus = tf.config.experimental.list_physical_devices('GPU')
@@ -27,7 +29,8 @@ if gpus:
   except RuntimeError as e:
     # Memory growth must be set before GPUs have been initialized
     print(e)
-    
+</code>
+</pre>
 
 # Responsibilities
 SeungA Chung: Experiment design, Overall coding including the experiment and a system, CNN structure experiment, Paper(Abstract, Introduction, Method(specifically implementation part), Experiment(specifically Model Structure experiment part), Suggestion for Facial Expression Recognition System, Conclusion), Document, Demo
