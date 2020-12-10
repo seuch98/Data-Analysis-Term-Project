@@ -7,8 +7,8 @@ import time
 
 # parameters for loading data and images
 #detection_model_path = 'haarcascade_files/haarcascade_frontalface_default.xml'
-detection_model_path = 'C:\\Users\\ewhac\\Desktop\\face_classification-master\\face_classification-master\\trained_models\\detection_models\\haarcascade_frontalface_default.xml'
-emotion_model_path = 'C:\\Users\\ewhac\\Desktop\\face_classification-master\\_mini_XCEPTION.61-0.63.hdf5'
+detection_model_path = 'C:\\Users\\User\\Desktop\\CW\\DA\\Term Project\\haarcascade_frontalface_default.xml'
+emotion_model_path = 'C:\\Users\\User\\Desktop\\CW\\DA\\Term Project\\Final\\_mini_XCEPTION.62-0.65.hdf5'
 #emotion_model_path = 'models/_mini_XCEPTION.106-0.65.hdf5'
 
 # hyper-parameters for bounding boxes shape
