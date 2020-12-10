@@ -1,5 +1,7 @@
 # Data-Analysis-Term-Project
 
+#### 윤혜정승아팀: 202CPG03 SeungA Chung, 200AIG01 HyeJung Yoon
+
 This is a project for facial expression recognition based on CNN model.
 
 1. Download the dataset from the below link:<br>
@@ -34,7 +36,7 @@ if gpus:
 
 # Responsibilities
 
-SeungA Chung: 
+#### SeungA Chung: 
 - Experiment design
 - Overall coding including the experiment and a system
 - CNN structure experiment 
@@ -42,7 +44,7 @@ SeungA Chung:
 - Document
 - Demo
 
-HyeJung Yoon: 
+#### HyeJung Yoon: 
 - Experiment design
 - Epoch experiment
 - Regularization experiment
